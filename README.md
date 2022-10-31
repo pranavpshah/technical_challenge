@@ -81,3 +81,6 @@ A Class of the robot which stores the parameters, destination and current positi
 Stores the location of each station.
 
 
+# Sample Output
+
+![demo1](/images/demo1.png)
