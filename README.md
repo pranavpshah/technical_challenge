@@ -83,5 +83,4 @@ Stores the location of each station.
 
 # Sample Output
 
-image.png
-
+![demo1](/images/demo1.png)
