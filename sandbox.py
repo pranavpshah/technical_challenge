@@ -26,7 +26,7 @@ while(flag):
         flag = False
 
     if(connection):
-        # procedure to take a user command and se telnet to interact with bot
+        # procedure to take a user command and se telnet to interact with robot
         command =  input("Enter command: ")
         if(command.lower() == "exit"):
             flag = False
